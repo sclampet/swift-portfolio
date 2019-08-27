@@ -24,7 +24,7 @@ Overflow was built entirely in Swift, and the UI—which was built programmatica
 [snuze](https://github.com/sclampet)—the alarm clock designed to positively negatively reinforce your sleep habits—will be my first commercial iOS product. The app forces you to donate money to a good cause each time you decide to hit the snooze button. Snuze is being written entirely in Swift, integrates Stripe, and makes extensive use of Firebase to manage data. It's tenantive release date is by the end of 2019. "You snuze you lose!"
 
 <p align="center">
-<img src="" width="230"  title="snuze">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="" width="230" title="snuze">
+<img src="images/snuze/snuze-mockups.png" width="700"  title="snuze">
 </p>
 
 ## Thanks!
