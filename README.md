@@ -25,7 +25,7 @@ Overflow was built entirely in Swift, and the UI—which was built programmatica
 <p align="center">
 <img src="images/snuze/snuze-mockups.png" width="700"  title="snuze">
 </p>
-# Thanks!
+Thanks!
 
 # Contact Info:
 
