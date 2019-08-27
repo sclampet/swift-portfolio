@@ -7,7 +7,7 @@
 
 I'm extremely pleased with how the project came out. I'm particularly proud of the app's launch screen animation, UI design, which was built programmatically, and easily-extended architecture. Moviflix was built with Xcode and written entirely in Swift 5.  
 <p align="center">
-<img src="" width="230"  title="Movieflix">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="" width="230" title="Movieflix">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="" width="226" title="Movieflix">
+<img src="images/movieflix/home.png" width="275"><img src="images/movieflix/details.png" width="275">;<img src="images/movieflix/search.png" width="275">
 </p>
 
 
@@ -16,7 +16,7 @@ I'm extremely pleased with how the project came out. I'm particularly proud of t
 
 Overflow was built entirely in Swift, and the UI—which was built programmatically-is attractive and animates smoothly. Most importantly, the code is clean, easy to reason about, and maintains strong separation of concerns. I'm very proud of the main game animation. I implemented this using Airbnb's Lottie Animations.
 <p align="center">
-<img src="" width="230"  title="Overflow">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="" width="230" title="Overflow">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="" width="228" title="Overflow">
+<img src="images/overflow/game.png" width="275"  title="Overflow"><img src="images/overflow/guessing.png" width="275" title="Overflow"><img src="images/overflow/gameresult.png" width="275" title="Overflow">
 </p>
 
 
