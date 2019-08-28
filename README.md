@@ -16,7 +16,7 @@ I'm extremely pleased with how the project came out. I'm particularly proud of t
 
 Overflow was built entirely in Swift, and the UI, which I built programmatically, is attractive and animates smoothly. Most importantly, the code is clean, easy to reason about, and maintains strong separation of concerns. I'm very proud of the main game animation and the custom keyboard I built using UIStackView. I implemented this using Airbnb's Lottie Animations.
 <p align="center">
-<img src="images/overflow/game.png" width="285"  title="Overflow"><img src="images/overflow/gameresult.png" width="285" title="Overflow"><img src="images/overflow/wordDemo.gif" width="180" title="Overflow">
+<img src="images/overflow/game.png" width="285"  title="Overflow"><img src="images/overflow/gameresult.png" width="285" title="Overflow"><br><img src="images/overflow/wordDemo.gif" width="180" title="Overflow">
 </p>
 
 
