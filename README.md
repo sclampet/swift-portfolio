@@ -7,7 +7,7 @@
 
 I'm extremely pleased with how the project came out. I'm particularly proud of the app's launch screen animation, overall design, and easily-extended architecture. Moviflix was built with Xcode and written entirely in Swift 5.  
 <p align="center">
-<img src="images/movieflix/home.png" width="285"><img src="images/movieflix/details.png" width="285"><img src="images/movieflix/movieflixDemo.gif" width="200">
+<img src="images/movieflix/home.png" width="285"><img src="images/movieflix/details.png" width="285"><br><img src="images/movieflix/movieflixDemo.gif" width="200">
 </p>
 
 
