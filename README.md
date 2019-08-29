@@ -1,5 +1,6 @@
-<a href="images/ScottClampetResume.pdf" download><img src="https://img.shields.io/badge/Download-Resume-ff69b4.svg?style=for-the-badge&logo=codeigniter&logoColor=white"></a><br><br>
-<img src="images/movieflix/icon.png" width="50">&nbsp;&nbsp;&nbsp;<img src="images/overflow/icon.png" width="50">
+<img src="images/movieflix/icon.png" width="50">&nbsp;&nbsp;&nbsp;<img src="images/overflow/icon.png" width="50"><br><br>
+
+<a href="images/ScottClampetResume.pdf" download><img src="https://img.shields.io/badge/Download-Resume-ff69b4.svg?style=for-the-badge&logo=codeigniter&logoColor=white"></a>
 
 <!-- # Hello!
 *Thanks for stopping by*. This repo serves as a kind of ever-changing portfolio of projects I'm currently excited about; please feel free to look around. -->
