@@ -14,7 +14,7 @@ I'm extremely pleased with how the project came out. I'm particularly proud of t
 # Overflow
 [Overflow](https://github.com/sclampet) is a take-home project like app I recently completed. The basic requirements for the app were that it allow users to play a version of "Hangman" by selecting a game difficulty and then guessing individual letters or the entire word. Each game is followed by a stats popup to let users know whether they won and some basic performance metrics. Choice of design and UI elements were left up to me.
 
-Overflow was built entirely in Swift, and the UI, which I built programmatically, is attractive and animates smoothly. Most importantly, the code is clean, easy to reason about, and maintains strong separation of concerns. I'm very proud of the main game animation and the custom keyboard I built using UIStackView. I implemented this using Airbnb's Lottie Animations.
+Overflow was built entirely in Swift, and the UI, which I built programmatically, is attractive and animates smoothly. Most importantly, the code is clean, easy to reason about, and maintains strong separation of concerns. I'm very proud of the main game animation and the custom keyboard I built using UIStackView. I implemented the main animation using Airbnb's Lottie Animations.
 <p align="center">
 <img src="images/overflow/game.png" width="285"  title="Overflow"><img src="images/overflow/gameresult.png" width="285" title="Overflow"><br><img src="images/overflow/wordDemo.gif" width="180" title="Overflow">
 </p>
