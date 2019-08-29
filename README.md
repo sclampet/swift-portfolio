@@ -1,8 +1,9 @@
-<a href="images/ScottClampetResume.pdf" download><img src="https://img.shields.io/badge/Download-Resume-ff69b4.svg?style=for-the-badge&logo=codeigniter&logoColor=white"></a>
+<a href="images/ScottClampetResume.pdf" download><img src="https://img.shields.io/badge/Download-Resume-ff69b4.svg?style=for-the-badge&logo=codeigniter&logoColor=white"></a><br><br>
+<img src="images/movieflix/icon.png" width="50">&nbsp;&nbsp;&nbsp;<img src="images/overflow/icon.png" width="50">
 
 <!-- # Hello!
 *Thanks for stopping by*. This repo serves as a kind of ever-changing portfolio of projects I'm currently excited about; please feel free to look around. -->
-# Movieflix
+# Movieflix 
 [Movieflix](https://github.com/sclampet) a common iOS Developer take-home project I recently completed. The basic requirements for the app were that it display currently popular, newly released, and upcoming movies using data from [themoviedb.org](https://www.themoviedb.org/)'s REST api. Choice of design and UI elements were left up to me. I built this programmatically based on the Netflix app.
 
 I'm extremely pleased with how the project came out. I'm particularly proud of the app's launch screen animation, overall design, and easily-extended architecture. Moviflix was built with Xcode and written entirely in Swift 5.  
