@@ -1,3 +1,5 @@
+### STATUS: Working on updating these projects to give viewers a better understanding of my current expertise. As of now these don't accurately reflect my skill level. You can find the WIP repos for these apps in the "pinned" section of my profile.<br><br>
+
 <a href="images/ScottClampetResume.pdf" download><img src="https://img.shields.io/badge/Download-Resume-ff69b4.svg?style=for-the-badge&logo=codeigniter&logoColor=white"></a><br><br>
 <img src="images/movieflix/icon.png" width="50">&nbsp;&nbsp;&nbsp;<img src="images/overflow/icon.png" width="50"><br><br>
 
